@@ -1,6 +1,9 @@
 {
   "name": "venice-ai-cli",
-  "owner": "mycology5000",
+  "owner": {
+    "name": "mycology5000",
+    "url": "https://github.com/mycology5000"
+  },
   "version": "2.1.0",
   "description": "Privacy-first command line interface for Venice AI - chat, search, images, TTS, and more from your terminal",
   "homepage": "https://venice.ai",
@@ -15,6 +18,7 @@
       "displayName": "Venice AI Command Line Interface",
       "description": "Official CLI for Venice AI - Privacy-first access to chat, search, images, TTS, and more",
       "version": "2.1.0",
+      "source": "https://github.com/mycology5000/venice-cli",
       "repository": "https://github.com/mycology5000/venice-cli",
       "documentation": "https://docs.venice.ai",
       "keywords": [
