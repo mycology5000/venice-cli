@@ -1,9 +1,6 @@
 {
   "name": "venice-ai-cli",
-  "owner": {
-    "name": "mycology5000",
-    "email": "mycology5000@gmail.com"
-  },
+  "owner": "mycology5000",
   "metadata": {
     "description": "Venice AI CLI - Privacy-first command line interface for chat, search, images, TTS, and more",
     "version": "2.1.0"
@@ -13,7 +10,7 @@
       "name": "venice-cli",
       "description": "Official CLI for Venice AI - Privacy-first access to chat, search, images, TTS, and more from your terminal",
       "version": "2.1.0",
-      "source": "."
+      "source": "https://github.com/mycology5000/venice-cli"
     }
   ]
 }
