@@ -1,0 +1,51 @@
+{
+  "name": "Venice AI CLI",
+  "version": "2.1.0",
+  "description": "Privacy-first command line interface for Venice AI - chat, search, images, TTS, and more from your terminal",
+  "homepage": "https://venice.ai",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mycology5000/venice-cli"
+  },
+  "license": "MIT",
+  "marketplace": {
+    "id": "venice-cli",
+    "displayName": "Venice AI CLI",
+    "category": "ai-tools",
+    "keywords": [
+      "venice",
+      "ai",
+      "cli",
+      "llm",
+      "chat",
+      "image-generation",
+      "text-to-speech",
+      "transcription",
+      "privacy",
+      "copilot"
+    ],
+    "tools": [
+      {
+        "name": "venice-cli",
+        "displayName": "Venice AI Command Line Interface",
+        "description": "Official CLI for Venice AI - Privacy-first access to chat, search, images, TTS, and more",
+        "version": "2.1.0",
+        "repository": "https://github.com/mycology5000/venice-cli",
+        "documentation": "https://docs.venice.ai",
+        "features": [
+          "Chat with privacy-first LLMs",
+          "Image generation",
+          "Text-to-speech",
+          "Search capabilities",
+          "Transcription support"
+        ]
+      }
+    ],
+    "resources": {
+      "documentation": "https://docs.venice.ai",
+      "homepage": "https://venice.ai",
+      "issues": "https://github.com/mycology5000/venice-cli/issues",
+      "repository": "https://github.com/mycology5000/venice-cli"
+    }
+  }
+}
